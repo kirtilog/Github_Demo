@@ -4,7 +4,11 @@ def add(x,y):
 
 #Sub implem
 def substract(x,y):
-  (return x-y)
+(return x-y)
+   if y>x:
+  return Negative_Value_Error
+ else
+ x-y
 
 #Multiply implem
 def multiply(x,y):
