@@ -16,7 +16,7 @@ def multiply(x,y):
 
 #Divide implem
 def divide(x,y):
-  return x/y
+  (return x/y)
 
 #Square implem
 def square(x):
