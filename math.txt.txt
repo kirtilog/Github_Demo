@@ -12,7 +12,7 @@ def multiply(x,y):
 
 #Divide implem
 def divide(x,y):
-  pass
+  return x/y
 
 #Square implem
 def square(x):
